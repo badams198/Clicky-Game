@@ -13,7 +13,7 @@ class App extends Component {
   render () {
     const style = {
       backgroundStyle: {
-        backgroundgImage: 'url(https://imgur.com/gallery/CiX7q)',
+        backgroundImage: 'url(zeldabg.png)',
         backgroundRepeat: 'no-repeat',
         backgroundsize: 'cover',
       }
